@@ -1,5 +1,62 @@
 # 💫 About Me:
-Deeptanshu Kumar<br><br>🎓 Computer Science Engineering Student<br>📊 Aspiring Data Analyst | Data-Driven Problem Solver<br><br>Professional Summary<br>Computer Science Engineering student with a strong interest in Data Analytics. Skilled in working with data to clean, analyze, and derive meaningful insights. Actively building analytical thinking through hands-on practice with Python, SQL, and data visualization tools. Passionate about continuous learning and real-world problem solving.<br><br>Technical Skills<br>Programming: Python, C++<br>Data Analytics: Data cleaning, data analysis, exploratory data analysis (EDA)<br>Databases: SQL, MySQL<br><br>Tools & Libraries: Pandas, NumPy, Matplotlib (learning)<br><br>Other: Problem-solving, logical thinking, basic statistics<br><br>Currently Working On:-<br>Data analysis projects using Python and SQL<br>Practicing EDA and data visualization<br>Strengthening problem-solving through DSA<br><br>Currently Learning:-<br>Advanced Python for Data Analysis<br>SQL queries and database optimization<br>Data visualization and dashboard fundamentals<br>Statistics for data analysis<br><br>Looking to Collaborate On:-<br>Data analysis and data visualization projects<br>Beginner-friendly analytics open-source projects<br>Projects involving real-world datasets<br><br>Looking for Help With<br>End-to-end data analytics workflows<br>Industry-level analytics project structure<br>Improving data storytelling and insights presentation<br><br>Fun Fact:<br>I believe consistency and data-driven decisions lead to the best results.
+# 💫 About Me:
+
+Hi, I'm **Deeptanshu Kumar** 👋
+
+🎓 Computer Science Engineering Student  
+📊 Aspiring Data Scientist | Machine Learning Enthusiast | AI Learner
+
+### 💼 Professional Summary
+
+I am a Computer Science Engineering student passionate about Data Science and Artificial Intelligence. I enjoy transforming raw data into meaningful insights through data analysis, visualization, and machine learning. I continuously enhance my skills by building real-world projects using Python, SQL, and modern data science libraries. My goal is to leverage data-driven solutions to solve complex business and real-world problems.
+
+### 🛠️ Technical Skills
+
+- **Programming:** Python, SQL, C++
+- **Data Science:** Data Cleaning, Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering
+- **Machine Learning:** Supervised & Unsupervised Learning (Learning)
+- **Databases:** SQL, MySQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Jupyter Notebook, VS Code, Git, GitHub
+- **Core Concepts:** Statistics, Probability, Data Visualization, Problem Solving
+
+### 🚀 Currently Working On
+
+- Real-world Data Science Projects
+- Exploratory Data Analysis (EDA)
+- Machine Learning Models using Scikit-learn
+- SQL-based Data Analysis
+- Data Visualization Dashboards
+
+### 🌱 Currently Learning
+
+- Advanced Machine Learning
+- Feature Engineering & Model Evaluation
+- Statistics for Data Science
+- Power BI & Tableau
+- Deep Learning Fundamentals
+
+### 🤝 Looking to Collaborate On
+
+- Data Science & Machine Learning Projects
+- Open Source AI/Data Projects
+- Predictive Analytics Applications
+- Data Visualization & Dashboard Projects
+
+### 🙌 Looking for Help With
+
+- End-to-End Data Science Workflows
+- Model Deployment
+- MLOps Fundamentals
+- Advanced Machine Learning Techniques
+
+### 🎯 Career Goal
+
+To become a Data Scientist who builds intelligent, data-driven solutions that create meaningful impact through analytics, machine learning, and AI.
+
+### ⚡ Fun Fact
+
+*"Every dataset has a story—my goal is to uncover it through data science."*
 
 
 ## 🌐 Socials:
